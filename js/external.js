@@ -22,3 +22,5 @@ var totalPay = parseInt(facebook) + parseInt(amazon) + parseInt(google);
 console.log(totalPay)
 
 alert("Total payment from Amazon, Facebook, Google" + totalPay);
+
+
